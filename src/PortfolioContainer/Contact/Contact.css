@@ -71,4 +71,25 @@ button{
     .c-wrapper {
         flex-direction: column;
     }
+    .c-title {
+        font-size: 30px;
+
+    }
+    .c-info-item {
+        margin: 20px 0px;
+        font-weight: 400;
+        width: 100%;
+    }
+    form{
+        margin-top: 3px;
+    }
+    button{
+        margin-top: 3px;
+        padding: 10px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .c{
+        margin-top: 30px;
+    }
 }

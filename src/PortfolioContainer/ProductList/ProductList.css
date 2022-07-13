@@ -33,4 +33,29 @@
     .pl-desc {
         display: none;
     }
+    .pl-title{
+        margin-top: 100px;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .pl {
+        padding: 10px;
+    }
+
+    .pl-texts {
+        width: 100%;
+    }
+
+    .pl-desc {
+        display: none;
+    }
+
+    .pl-title {
+        margin-top: 50px;
+    }
+    .pl-list{
+        height: 70vh;
+    }
+
 }

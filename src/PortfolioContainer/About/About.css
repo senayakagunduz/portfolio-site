@@ -45,9 +45,6 @@
     color: #555;
 
 }
-.row-right-desc{
-    
-}
 .a-award{
     margin-top: 50px;
     display: flex;
@@ -81,6 +78,35 @@
         padding: 20px;
     }
     .row-card.bg, .a-award{
+        display: none;
+    }
+
+}
+@media screen and (max-width:768px) {
+    .container {
+        flex-direction: column;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .row-left {
+        width: 100%;
+    }
+
+    .row-card {
+        height: 30vh;
+    }
+
+    .row-card.bg {
+        display: none;
+    }
+
+    .row-right {
+        padding: 20px;
+    }
+
+    .row-card.bg,
+    .a-award {
         display: none;
     }
 
