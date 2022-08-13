@@ -96,9 +96,17 @@
         height: 100%;
     }
     .i-desc {
-        display: none;
-    }    
-    .i-bg {
+        display: flex;
+        width:100%;
+    } 
+    .i-bg{
+        display: flex;
+        width: 100%;
+    }   
+    .i-img{
+        display:none;
+    }
+    /* .i-bg {
         clip-path: polygon(100% 0%, 100% 51%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
         background-color: #59b256;
         width: 100%;
@@ -113,7 +121,7 @@
         margin-right: 40px;
         border-radius: 80%;
         object-fit: cover;
-        } 
+        }  */
     }
 @media screen and (max-width: 768px) {
     .i {
