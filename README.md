@@ -1,5 +1,6 @@
 #personal website
-![portfolio](https://user-images.githubusercontent.com/69090467/184511899-34c4a4c7-0b45-4a7b-997b-d05aa64a7289.png)
+
+![screencapture-localhost-3000-2022-12-12-12_14_55](https://user-images.githubusercontent.com/69090467/207007213-289ce3e1-ae9a-4613-8502-23b4ace7e479.png)
 
 # Getting Started with Create React App
 
